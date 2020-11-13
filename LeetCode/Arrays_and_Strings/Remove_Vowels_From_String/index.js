@@ -18,3 +18,5 @@ const removeVowels = str => {
     }
     return output;
 };
+
+console.log(removeVowels('supercalifragalisticexpialodocious'));
